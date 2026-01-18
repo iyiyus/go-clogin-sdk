@@ -1,4 +1,4 @@
-package sdk
+package oauth
 
 const (
 	APIURL = "https://u.cccyun.cc/"
